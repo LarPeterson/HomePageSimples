@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(141, 20, 20); /* Considere um fundo mais suave para melhor legibilidade */
+}
+
+header {
+    background-color: black;
+    color: #fff; /* Código de cor abreviado */
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+#hero {
+    text-align: center;
+    padding: 50px 0;
+}
+
+#discografia {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.albums {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /* Para melhor responsividade */
+}
+
+.album {
+    margin: 20px;
+}
+
+#tour {
+    background-color: black;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.tour-dates, .tour-cities {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+    flex-wrap: wrap; /* Para melhor responsividade */
+}
+
+.city {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.city img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: white;
+    color: black;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+form {
+    margin: 20px 0;
+}
+
+form input, form textarea {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#social a {
+    margin: 0 10px;
+}
+
+#social img {
+    width: 20px;
+    height: 20px;
+}
