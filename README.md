@@ -15,13 +15,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://prnt.sc/Lmm8-Jf8Nhzk"  />
+  <img height="" src="https://github.com/LarPeterson/HomePageSimples/blob/main/Screenshoots/homepagepart1.png?raw=true"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://prnt.sc/2NiBymimBJdZ"  />
+  <img height="" src="https://github.com/LarPeterson/HomePageSimples/blob/main/Screenshoots/homepagepart2.png?raw=true"  />
 </div>
 
 ###
